@@ -1,16 +1,14 @@
 ### Hi there 👋
 
+My name is Ivo Serra and I live in Berlin in Germany. I'm studying fullstack web development at DCI and in September 2022 will complete my graduation.
+
+
+
+My name is Ivo Serra and I live in Berlin in Germany. I'm studying fullstack web development at DCI and in September 2022 will complete my graduation.
+<a href="https://github.com/ivoserra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsashleyhere&layout=compact" />
+</a>
+<a href="https://github.com/ivoserra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heyitsashleyhere&show_icons=true&theme=radical" />
+</a>
 <!--
-**ivoserra/ivoserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
