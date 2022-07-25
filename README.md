@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Ivo Serra and I live in Berlin in Germany. I'm studying fullstack web development at DCI and in September 2022 will complete my graduation.
+My name is Ivo Serra and I live in Berlin in Germany. Im graduated from Digital career Institute in fullstack web development July 2022.
+
 
 
 <a href="https://github.com/ivoserra/github-readme-stats">
