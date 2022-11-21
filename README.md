@@ -9,7 +9,7 @@ if you have any questions please contact me to: herrserra@icloud.com
 
 
 <a href="https://github.com/ivoserra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoserra&layout=compact" />
+  <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivoserra)](https://github.com/ivoserra/github-readme-stats)" />
 </a>
 
 
