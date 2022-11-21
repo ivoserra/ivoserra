@@ -7,6 +7,8 @@ Most of my individual and team projects have been deployed and published.
 
 if you have any questions please contact me to: herrserra@icloud.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivoserra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://github.com/ivoserra/github-readme-stats">
   <img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivoserra)](https://github.com/ivoserra/github-readme-stats)" />
